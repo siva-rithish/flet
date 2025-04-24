@@ -26,3 +26,9 @@
 *.bkp
 .python-version
 vendor/
+
+# Swift Package Manager
+.build/
+Packages/
+.swiftpm/
+DerivedData/
