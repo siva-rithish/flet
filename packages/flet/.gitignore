@@ -30,3 +30,9 @@ migrate_working_dir/
 build/
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# Swift Package Manager
+.build/
+Packages/
+.swiftpm/
+DerivedData/
